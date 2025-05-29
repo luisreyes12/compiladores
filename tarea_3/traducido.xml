@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<personas>
+    <persona>
+        <ci>1234567</ci>
+        <nombre>Julio Pérez</nombre>
+        <casado>False</casado>
+        <hijos/>
+    </persona>
+    <persona>
+        <ci>7654321</ci>
+        <nombre>Juan Gómez</nombre>
+        <casado>True</casado>
+        <hijos>
+            <hijo>
+                <nombre>Jorge</nombre>
+                <edad>18</edad>
+            </hijo>
+            <hijo>
+                <nombre>Valeria</nombre>
+                <edad>16</edad>
+            </hijo>
+        </hijos>
+    </persona>
+</personas>
